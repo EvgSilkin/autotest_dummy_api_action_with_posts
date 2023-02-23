@@ -1,9 +1,6 @@
 import json
-
-import allure
 from requests import Response
 
-from utils.logger_method import Logger
 
 
 class Checking:
